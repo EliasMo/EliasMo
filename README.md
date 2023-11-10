@@ -27,6 +27,10 @@ href="https://medium.com/@EliasMo">Blogger</a></h1>
 
 <h2> 📄 Certifications </h2>
 
+- [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/eccef550-5a47-48d7-99d0-280331711216/public_url)
+- [CompTIA Security+](https://www.credly.com/badges/975c0fe5-2138-44b2-8523-50ea63a20a00/public_url)
+- Microsoft Certified: Azure Fundamentals 
+
 
 <h2> 🤳 Connect with me:</h2>
 
