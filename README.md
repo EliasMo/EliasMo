@@ -24,6 +24,7 @@ href="https://medium.com/@EliasMo">Blogger</a></h1>
 
 <h2> 📖 Medium Posts </h2>
 
+- [ Post 1 : Hello World ](https://medium.com/@EliasMo/the-first-few-posts-are-always-interesting-e98deed358c0)
 
 <h2> 📄 Certifications </h2>
 
