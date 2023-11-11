@@ -8,11 +8,7 @@ href="https://medium.com/@EliasMo">Blogger</a></h1>
 - <b>⌨️ IT Practise </b>
 
 
-
-- <b>🐍 Python Basics</b>
-   
-
-- <b>🐍🤖Python Automation</b>
+- <b>🐍🤖Python </b>
   
 
 - <b>☁️ Cloud Projects</b>
