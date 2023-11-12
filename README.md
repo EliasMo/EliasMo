@@ -1,7 +1,6 @@
-<h1>Hi, I'm Elias! <br/><a 
-href="https://github.com/EliasMo">Programmer</a>, <a 
+<h2>Hi, I'm Elias! <br/><a 
 href="https://www.linkedin.com/in/elias-mohamed-961554177/">Cybersecurity Professional</a>, <a 
-href="https://medium.com/@EliasMo">Blogger</a></h1>
+href="https://medium.com/@EliasMo">Blogger</a></h2>
 
 <h2>🐱‍💻 Projects:</h2>
 
@@ -21,12 +20,6 @@ href="https://medium.com/@EliasMo">Blogger</a></h1>
 <h2> 📖 Medium Posts </h2>
 
 - [ Post 1 : Hello World ](https://medium.com/@EliasMo/the-first-few-posts-are-always-interesting-e98deed358c0)
-
-<h2> 📄 Certifications </h2>
-
-- [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/eccef550-5a47-48d7-99d0-280331711216/public_url)
-- [CompTIA Security+](https://www.credly.com/badges/975c0fe5-2138-44b2-8523-50ea63a20a00/public_url)
-- Microsoft Certified: Azure Fundamentals 
 
 
 <h2> 🤳 Connect with me:</h2>
