@@ -4,8 +4,8 @@ href="https://medium.com/@EliasMo">Blogger</a></h2>
 
 <h2>🐱‍💻 Projects:</h2>
 
-<details IT>
-<summary>⌨️IT </summary>
+<details Powershell>
+<summary>⌨️Powershell </summary>
 
   
 </details>
