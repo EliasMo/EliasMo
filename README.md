@@ -4,20 +4,24 @@ href="https://medium.com/@EliasMo">Blogger</a></h2>
 
 <h2>🐱‍💻 Projects:</h2>
 
-<b>⌨️ IT Practise </b>
+<details IT>
+<summary>⌨️ IT </summary>
+
+  
+</details>
 
 <details python>
   <summary>🐍🤖 Python</summary>
   
-  [To Do List App](https://github.com/EliasMo/to-do-list-app) 
-  
+- [To Do List App](https://github.com/EliasMo/to-do-list-app)
+- 
 </details>
 
+<details Cloud Projects>
+<summary>☁️ Cloud Projects</summary>
 
   
-
-<b>☁️ Cloud Projects</b>
-  
+</details>
 
 <h2>📺 Youtube videos </h2>
 
