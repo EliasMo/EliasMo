@@ -5,20 +5,20 @@ href="https://medium.com/@EliasMo">Blogger</a></h2>
 <h2>🐱‍💻 Projects:</h2>
 
 <details IT>
-<summary>⌨️ <b>IT</b> </summary>
+<summary>⌨️IT </summary>
 
   
 </details>
 
 <details python>
-  <summary>🐍🤖 <b>Python</b></summary>
+  <summary>🐍🤖Python</summary>
   
 - [To Do List App](https://github.com/EliasMo/to-do-list-app)
-- 
+  
 </details>
 
 <details Cloud Projects>
-<summary>☁️ <b>Cloud Projects</b></summary>
+<summary>☁️Cloud Projects</summary>
 
   
 </details>
