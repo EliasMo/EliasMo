@@ -4,27 +4,18 @@ href="https://medium.com/@EliasMo">Blogger</a></h2>
 
 <h2>🐱‍💻 Projects:</h2>
 
-<details Powershell>
-<summary>⌨️Powershell </summary>
+- <b> ⌨️Powershell </b>
 
-  
-</details>
 
-<details python>
-  <summary>🐍🤖Python</summary>
+- <b> 🐍🤖Python </b> 
   
-- [To Do List App](https://github.com/EliasMo/to-do-list-app)
+  - [To Do List App](https://github.com/EliasMo/to-do-list-app)
   
-</details>
 
-<details Cloud Projects>
-<summary>☁️Cloud Projects</summary>
+- <b> ☁️Cloud Projects </b>
 
-  
-</details>
 
 <h2>📺 Youtube videos </h2>
-
 
 
 <h2> 📖 Medium Posts </h2>
