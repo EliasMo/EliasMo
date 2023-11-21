@@ -7,8 +7,8 @@ href="https://medium.com/@EliasMo">Blogger</a></h2>
 - <b> ⌨️Powershell </b>
 
 
-- <b> 🐍🤖Python </b> 
-  
+- <b> 🐍🤖Python </b>
+
   - [Basic To Do List App](https://github.com/EliasMo/to-do-list-app)
   - [Basic Password Checker](https://github.com/EliasMo/PasswordChecker) 
   
