@@ -9,7 +9,8 @@ href="https://medium.com/@EliasMo">Blogger</a></h2>
 
 - <b> 🐍🤖Python </b> 
   
-  - [To Do List App](https://github.com/EliasMo/to-do-list-app)
+  - [Basic To Do List App](https://github.com/EliasMo/to-do-list-app)
+  - [Basic Password Checker](https://github.com/EliasMo/PasswordChecker) 
   
 
 - <b> ☁️Cloud Projects </b>
