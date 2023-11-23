@@ -6,11 +6,14 @@ href="https://medium.com/@EliasMo">Blogger</a></h2>
 
 - <b> ⌨️Powershell </b>
 
+  - [Active Directory User Creation]
 
 - <b> 🐍🤖Python </b>
 
 
-  - [Password Checker](https://github.com/EliasMo/PasswordChecker) 
+  - [Password Checker](https://github.com/EliasMo/PasswordChecker)
+  - [File Encryption & Decryption](https://github.com/EliasMo/FileEncryptionDecryption)
+  - [Data Structures & Algorithms Practise]
   
 
 - <b> ☁️Cloud Projects </b>
