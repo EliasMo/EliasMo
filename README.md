@@ -6,7 +6,7 @@ href="https://medium.com/@EliasMo">Blogger</a></h2>
 
 - <b> ⌨️Powershell </b>
 
-  - [Active Directory Bulk Creation]
+  - [Active Directory Bulk User Creation]
 
 - <b> 🐍🤖Python </b>
 
