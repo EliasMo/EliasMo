@@ -7,6 +7,7 @@ href="https://medium.com/@EliasMo">Blogger</a></h2>
 - <b> ⌨️Powershell </b>
 
   - [Active Directory Bulk User Creation](https://github.com/EliasMo/Active-Directory-Bulk-User-Creation)
+  - [Automated Firewall Rule Management with PowerShell](https://github.com/EliasMo/FirewallRuleAuto)
 
 - <b> 🐍🤖Python </b>
 
