@@ -8,7 +8,7 @@ href="https://medium.com/@EliasMo">Blogger</a></h2>
 
   - [Active Directory Bulk User Creation](https://github.com/EliasMo/Active-Directory-Bulk-User-Creation)
   - [Automated Firewall Rule Management with PowerShell](https://github.com/EliasMo/FirewallRuleAuto)
-  - [PowerShell System Monitoring Script](https://github.com/EliasMo/Sysmonitor-PS)
+  - [PowerShell System Monitoring](https://github.com/EliasMo/Sysmonitor-PS)
   
 
 - <b> 🐍🤖Python </b>
