@@ -1,5 +1,5 @@
 <h2>Hi, I'm Elias! <br/><a 
-href="https://www.linkedin.com/in/elias-mohamed-961554177/">Cybersecurity Professional</a>, <a 
+href="https://www.linkedin.com/in/elias-mohamed-961554177/"> IT Professional</a>, <a 
 href="https://medium.com/@EliasMo">Blogger</a></h2>
 
 <h2>🐱‍💻 Projects:</h2>
