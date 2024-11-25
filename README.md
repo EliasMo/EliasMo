@@ -4,26 +4,31 @@ href="https://medium.com/@EliasMo">Blogger</a></h2>
 
 <h2>🐱‍💻 Projects:</h2>
 
-- <b> ⌨️Powershell </b>
+##  🔧 Enterprise Infrastructure Projects
 
-  - [Hybrid AD part 1](https://github.com/EliasMo/HybridAD-part1)
-  - [Active Directory Bulk User Creation](https://github.com/EliasMo/Active-Directory-Bulk-User-Creation)
-  - [Automated Firewall Rule Management with PowerShell](https://github.com/EliasMo/FirewallRuleAuto)
-  - [System Monitoring](https://github.com/EliasMo/Sysmonitor-PS)
-  
+### Windows Infrastructure
+📌 **Hybrid AD Implementation**
+- Part 1: Core Infrastructure
+  * Windows Server 2022 deployment
+  * Active Directory configuration 
+  * Network services (DHCP, DNS, NAT)
+  * Security policies & Group Policy
+  * [View Project →](https://github.com/EliasMo/HybridAD-part1)
+ 
+- Part 2: Cloud Integration *(In Progress)*
+  * Azure AD integration
+  * SQL Server implementation
+  * Hybrid identity management
+  * Modern authentication
+  * [Coming Soon]
 
-- <b> 🐍🤖Python </b>
+### 🛠️ Enterprise Systems *(Planned)*
+- Help Desk Implementation (osTicket)
+- Linux Infrastructure Integration
+- System Automation & Management
 
 
-  - [Password Checker](https://github.com/EliasMo/PasswordChecker)
-  - [File Encryption & Decryption](https://github.com/EliasMo/FileEncryptionDecryption)
-  - [Data Structures & Algorithms Practise]
-  
-
-- <b> ☁️Cloud Projects </b>
-
-
-<h2>📺 Youtube videos </h2>
+*Currently focused on enterprise infrastructure and cloud integration*
 
 
 <h2> 📖 Medium Posts </h2>
