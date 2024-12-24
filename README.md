@@ -6,24 +6,21 @@ href="https://medium.com/@EliasMo">Blogger</a></h2>
 
 ##  🔧 Enterprise Infrastructure Projects
 
-### Windows Infrastructure
-📌 **Hybrid AD Implementation**
-- Part 1: Core Infrastructure
-  * Windows Server 2022 deployment
-  * Active Directory configuration 
-  * Network services (DHCP, DNS, NAT)
-  * Security policies & Group Policy
-  * [View Project →](https://github.com/EliasMo/HybridAD-part1)
+📌 **Hybrid AD **
+- [HybridAD Part 1: Core Infrastructure](https://github.com/EliasMo/HybridAD-part1)
  
-- Part 2: Cloud Integration *(In Progress)*
-  * Azure AD integration
-  * SQL Server implementation
-  * Hybrid identity management
-  * Modern authentication
-  * [Coming Soon]
+- [HybridAD Part 2: Cloud Integration](https://github.com/EliasMo/Hybrid-AD-part2)
+ 
+📌 **Help Desk **
+- [osTicket: Enterprise Infrastructure](coming-soon)
+  
+📌 **Network GNS3 **
+- [Enterprise Network with HybridAD](coming-soon)
+- [Network DMZ](coming-soon)
+ 
 
-### 🛠️ Enterprise Systems *(Planned)*
-- Help Desk Implementation (osTicket)
+ 
+
 - Linux Infrastructure Integration
 - System Automation & Management
 
@@ -46,18 +43,3 @@ href="https://medium.com/@EliasMo">Blogger</a></h2>
 [twitter]: https://twitter.com/GeneralBlackBrd
 [instagram]: https://www.instagram.com/elias_mohamedd/?hl=en
 [linkedin]: https://www.linkedin.com/in/elias-mohamed-961554177/
-
-<!--
- is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
