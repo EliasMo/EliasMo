@@ -11,7 +11,7 @@ href="https://medium.com/@EliasMo">Blogger</a></h2>
  
 - [HybridAD Part 2: Cloud Integration](https://github.com/EliasMo/Hybrid-AD-part2)
  
-📌 **Help Desk **
+📌 **Ticketing System **
 - [osTicket: Enterprise Infrastructure](coming-soon)
   
 📌 **Network GNS3 **
