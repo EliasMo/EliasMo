@@ -6,13 +6,11 @@ href="https://medium.com/@EliasMo">Blogger</a></h2>
 
 ##  🔧 Enterprise Infrastructure Projects
 
-📌 **Hybrid AD **
 - [HybridAD Part 1: Core Infrastructure](https://github.com/EliasMo/HybridAD-part1)
  
 - [HybridAD Part 2: Cloud Integration](https://github.com/EliasMo/Hybrid-AD-part2)
- 
-📌 **Ticketing System **
-- [osTicket: Enterprise Infrastructure](coming-soon)
+
+- [osTicket: Enterprise Infrastructure](https://github.com/EliasMo/osTicketEnterprise)
   
 📌 **Network GNS3 **
 - [Enterprise Network with HybridAD](coming-soon)
