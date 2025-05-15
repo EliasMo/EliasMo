@@ -10,9 +10,13 @@ href="https://medium.com/@EliasMo">Blogger</a></h2>
  
 - [HybridAD Part 2: Cloud Integration](https://github.com/EliasMo/Hybrid-AD-part2)
 
-- [osTicket: Enterprise Infrastructure](https://github.com/EliasMo/osTicketEnterprise)
   
-📌 **Network GNS3 **
+📌 **Network **
+- ** Foundational Networking **
+   - [VLAN Configuration]
+   - [Static-Routing]
+   - [OSPF Routing]
+   - [Access Control Lists]
 - [Enterprise Network with HybridAD](coming-soon)
 - [Network DMZ](coming-soon)
  
