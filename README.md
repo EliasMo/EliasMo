@@ -13,7 +13,7 @@ href="https://medium.com/@EliasMo">Blogger</a></h2>
   
 📌 **Network **
 - ** Foundational Networking **
-   - [VLAN Configuration]
+   - [VLAN Configuration](https://github.com/EliasMo/VLAN-Configuration/tree/main)
    - [Static-Routing]
    - [OSPF Routing]
    - [Access Control Lists]
